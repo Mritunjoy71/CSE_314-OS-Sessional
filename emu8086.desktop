@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=emu8086
+Exec=env WINEPREFIX="/home/mritunjoy/.wine" wine C:\\\\emu8086\\\\emu8086.exe 
+Type=Application
+StartupNotify=true
+Path=/home/mritunjoy/.wine/dosdevices/c:/EMU8086
+Icon=E538_icon.0
